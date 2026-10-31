@@ -209,7 +209,7 @@ export const projects: Project[] = [
       { value: 'Live', label: 'deployed web app' },
     ],
     github: 'https://github.com/sharmi-bit/Placement-tracker',
-    live: 'http://placement-tracker-frontend-suto.onrender.com/login',
+    live: 'https://sharmisri-portfolio.onrender.com/',
     palette: { from: '#120822', via: '#3d1a6e', to: '#07060c', accent: '#b98bff' },
     motif: 'tenants',
   },
