@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+*.local
+/.claude
+
+# secrets — never commit real environment files
+.env
+.env.*
+!.env.example
+server/.env
+
